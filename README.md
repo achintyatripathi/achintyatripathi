@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://gifyu.com/image/cDRB"><img src="https://s7.gifyu.com/images/readme.gif" alt="readme.gif" width="5000" height="350" border="0" /></a>
 <!--
 **achintyatripathi/achintyatripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
