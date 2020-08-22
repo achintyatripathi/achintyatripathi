@@ -21,6 +21,18 @@
   <img align="left" height="22" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
   <img align="left" height="22" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
   <img align="left" height="22" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
-  <img align="left" height="22" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/githun/github.png" style="max-width:100%;">
+  <img align="left" height="22" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" style="max-width:100%;">
  </p>
+ <br>
+ <h3><a id="user-content--latest-blog-posts" class="anchor" aria-hidden="true" href="#-latest-blog-posts">
+   <img align="left" height="22" width="22" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" style="max-width:100%;"/> Latest Kaggle Posts</a>
+</h3>
+<ul>
+  <li> <a href="https://www.kaggle.com/achintyatripathi/pima-deeplearning-prediction-91-2-acc-86-val-acc" rel="nofollow">https://www.kaggle.com/achintyatripathi/pima-deeplearning-prediction-91-2-acc-86-val-acc</a>
+  <li> <a href="https://www.kaggle.com/achintyatripathi/is-police-providing-justice-or-plotly-tutorial" rel="nofollow">https://www.kaggle.com/achintyatripathi/is-police-providing-justice-or-plotly-tutorial</a>
+  <li> <a href="https://www.kaggle.com/achintyatripathi/covid-19-geo-spactial-analysis" rel="nofollow">https://www.kaggle.com/achintyatripathi/covid-19-geo-spactial-analysis</a>
+  <li> <a href="https://www.kaggle.com/achintyatripathi/logistic-reg-data-gen-to-modelling-from-scratch" rel="nofollow">https://www.kaggle.com/achintyatripathi/logistic-reg-data-gen-to-modelling-from-scratch</a>
+  <li> <a href="https://www.kaggle.com/achintyatripathi/highcharts-eda-logistic-reg-prediction" rel="nofollow">https://www.kaggle.com/achintyatripathi/highcharts-eda-logistic-reg-prediction</a>
+</ul>
+
 
