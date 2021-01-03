@@ -28,6 +28,7 @@
    <img align="left" height="22" width="22" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" style="max-width:100%;"/> Latest Kaggle Posts</a>
 </h3>
 <ul>
+  <li>Note:Open in chrome tab for better experience<a href="https://proactivepolicing-sabudh.netlify.app" rel="nofollow">https://proactivepolicing-sabudh.netlify.app/</a>
   <li> <a href="https://www.kaggle.com/achintyatripathi/pima-deeplearning-prediction-91-2-acc-86-val-acc" rel="nofollow">https://www.kaggle.com/achintyatripathi/pima-deeplearning-prediction-91-2-acc-86-val-acc</a>
   <li> <a href="https://www.kaggle.com/achintyatripathi/is-police-providing-justice-or-plotly-tutorial" rel="nofollow">https://www.kaggle.com/achintyatripathi/is-police-providing-justice-or-plotly-tutorial</a>
   <li> <a href="https://www.kaggle.com/achintyatripathi/covid-19-geo-spactial-analysis" rel="nofollow">https://www.kaggle.com/achintyatripathi/covid-19-geo-spactial-analysis</a>
